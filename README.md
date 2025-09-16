@@ -1,1 +1,1 @@
-# Faculdade
+# Faculdade é um repositório destinado a querdar atividades e trabalhos academicos
