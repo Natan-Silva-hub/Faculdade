@@ -1,9 +1,0 @@
-max fila: 38
-media entre requisicoes: 1.257893
-media tempos de servico: 0.989077
-ocupacao esperada: 0.800000
-ocupacao calculada: 0.786224
-E[N]: 3.758493
-E[W]: 4.727802
-Lambda: 0.794977
-Erro little: 0.000000
